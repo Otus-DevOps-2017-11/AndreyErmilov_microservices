@@ -1,0 +1,4 @@
+REPOSITORY                      TAG                 IMAGE ID            CREATED             SIZE
+andreyermilov/ubuntu-tmp-file   latest              85d1a180be63        2 minutes ago       112MB
+nginx                           latest              9e988ed19567        8 hours ago         109MB
+ubuntu                          16.04               0458a4468cbc        3 weeks ago         112MB
